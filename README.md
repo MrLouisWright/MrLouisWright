@@ -15,6 +15,5 @@ Malware analysis · Agentic AI · Adversarial machine learning · Threat intelli
 JavaScript · TypeScript · Python · Assembly · HTML/CSS · Tailwind · React · Next.js · Node.js · Git · Docker · Linux · Wireshark · Ghidra · YARA · Burp Suite
 
 ### Elsewhere
-🌐 [louiswright.co.uk](https://www.louiswright.co.uk) · 🛡️ [threatbytes.dev](https://www.threatbytes.dev)
-
+🌐 [louiswright.co.uk](https://www.louiswright.co.uk) · 🛡️ [threatbytes.dev](https://www.threatbytes.dev) · 🆔 [ORCID: 0009-0004-3840-4075](https://orcid.org/0009-0004-3840-4075)
 Fun fact: I've trekked to Everest Base Camp, and my claim to fame is my mention in Forbes.
