@@ -6,7 +6,7 @@ Cyber security researcher and software engineer based in the UK.
 - 🎓 BSc Web Development, Falmouth University
 - 🔬 Incoming PhD researcher
 - 🛡️ Founder and Principal Researcher of [ThreatBytes](https://github.com/THREATBYTES): Super Intelligence for novel malware research.
-- ✨ Building [Hallume](https://github.com/hallume): premium UI templates, WebGL heroes and shader effects. Crafted light for the modern web
+- ✨ Building [Hallume](https://www.hallume.com): premium UI templates, WebGL heroes and shader effects. Crafted light for the modern web
 - 💼 10+ years running my own web development agency
 
 ### Research interests
