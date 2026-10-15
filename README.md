@@ -5,7 +5,7 @@ Cyber security researcher and software engineer based in the UK.
 - 🎓 MSc Computer Science for Cyber Security, Oxford Brookes University
 - 🎓 BSc Web Development, Falmouth University
 - 🔬 Incoming PhD researcher
-- 🛡️ Founder and Principal Researcher of [ThreatBytes](https://github.com/THREATBYTES): an agentic, neural network-integrated reasoning engine for predicting, detecting and preventing novel malware
+- 🛡️ Founder and Principal Researcher of [ThreatBytes](https://github.com/THREATBYTES): Super Intelligence for novel malware research.
 - ✨ Building [Hallume](https://github.com/hallume): premium UI templates, WebGL heroes and shader effects. Crafted light for the modern web
 - 💼 10+ years running my own web development agency
 
