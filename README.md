@@ -3,7 +3,7 @@
 Cyber security researcher and software engineer based in the UK.
 
 - 🎓 MSc Computer Science for Cyber Security, Oxford Brookes University
-- 🎓 BSc Web Development, Falmouth University
+- 🎓 BSc Computer Science for Web Development, Falmouth University
 - 🔬 Incoming PhD researcher
 - 🛡️ Founder and Principal Researcher of [ThreatBytes](https://github.com/THREATBYTES): Super Intelligence for novel malware research.
 - 💼 10+ years running my own web development agency
