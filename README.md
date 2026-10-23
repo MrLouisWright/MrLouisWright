@@ -11,7 +11,7 @@ Cyber security researcher and software engineer based in the UK.
 ### Currently Building
 - ✨ [Hallume](https://www.hallume.com): Premium UI templates, WebGL heroes and shader effects. Crafted light for the modern web. [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.hallume.com&label=website)](https://www.hallume.com)
 - ✨ [Noticed.](https://www.noticedsites.com): Get Noticed. The web's boldest sites, voted by you. [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.noticedsites.com&label=website)](https://www.noticedsites.com)
-- ✨ [Serpfull](https://www.serpfull.com): Like steroids for climbing the SERP. [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.serpfull.com&label=website)](https://www.serpfull.com)
+- ✨ [Serpfull](https://www.serpfull.com): Enterprise-grade SERP, SEO & Analytics solutions designed to optimise search rankings. Driving measurable business impact. [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.serpfull.com&label=website)](https://www.serpfull.com)
 - 🌍 Loom Locale: A translation platform built to help developers deliver multilingual digital experiences thought [next-tongue](https://www.npmjs.com/package/next-tongue): An npm package for integrating multilingual experiences into Next.js applications.
 
 
