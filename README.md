@@ -15,7 +15,7 @@ Malware analysis · Agentic AI · Adversarial machine learning · Threat intelli
 <br>
 <br>
 
-## Currently Building
+# Currently Building
 ✨ [Serpfull](https://www.serpfull.com): Enterprise-grade SERP, SEO & Analytics solutions designed to optimise search rankings. [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.serpfull.com&label=website)](https://www.serpfull.com)
 <br>
 <br>
@@ -31,7 +31,7 @@ Malware analysis · Agentic AI · Adversarial machine learning · Threat intelli
 <br>
 <br>
 
-## Other Sites
+# Other Projects
 ✨ [Hallume](https://www.hallume.com): Premium UI templates, WebGL heroes and shader effects. Crafted light for the modern web. [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.hallume.com&label=website)](https://www.hallume.com)
 <br>
 <br>
