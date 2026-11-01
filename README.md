@@ -33,6 +33,10 @@ Malware analysis · Agentic AI · Adversarial machine learning · Threat intelli
 🌍 [Securemark](https://www.securemark.dev): A unified platform that monitors, measures and verifies website security, performance and software quality, delivering real-time insights through customisable SVG badges for GitHub repositories.
 <br>
 <br>
+<img width="2168" height="555" alt="Securemark Security Grade Banner" src="https://github.com/user-attachments/assets/03594a5a-819f-407a-99f8-24da628ee646" />
+<br>
+<br>
+<br>
 
 # Other Projects
 ✨ [Hallume](https://www.hallume.com): Premium UI templates, WebGL heroes and shader effects. Crafted light for the modern web. [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.hallume.com&label=website)](https://www.hallume.com)
