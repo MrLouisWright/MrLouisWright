@@ -23,6 +23,9 @@ Malware analysis · Agentic AI · Adversarial machine learning · Threat intelli
 <br>
 <img width="2048" height="512" alt="image" src="https://github.com/user-attachments/assets/2eb906a1-c74f-4ec1-87ac-6a61fd8e31de" />
 <br>
+
+[![build badge](https://securemark.dev/build/Serpfull/serpfull-web.svg)](https://securemark.dev/report/build/Serpfull/serpfull-web) [![coverage badge](https://securemark.dev/coverage/Serpfull/serpfull-web.svg)](https://securemark.dev/report/coverage/Serpfull/serpfull-web) [![vulns badge](https://securemark.dev/vulns/Serpfull/serpfull-web.svg)](https://securemark.dev/report/vulns/Serpfull/serpfull-web) [![release badge](https://securemark.dev/release/Serpfull/serpfull-web.svg)](https://securemark.dev/report/release/Serpfull/serpfull-web) [![license badge](https://securemark.dev/license/Serpfull/serpfull-web.svg)](https://securemark.dev/report/license/Serpfull/serpfull-web) [![issues badge](https://securemark.dev/issues/Serpfull/serpfull-web.svg)](https://securemark.dev/report/issues/Serpfull/serpfull-web) [![prs badge](https://securemark.dev/prs/Serpfull/serpfull-web.svg)](https://securemark.dev/report/prs/Serpfull/serpfull-web) [![codeql badge](https://securemark.dev/codeql/Serpfull/serpfull-web.svg)](https://securemark.dev/report/codeql/Serpfull/serpfull-web) [![secret-scanning badge](https://securemark.dev/secret-scanning/Serpfull/serpfull-web.svg)](https://securemark.dev/report/secret-scanning/Serpfull/serpfull-web) [![typescript-strict badge](https://securemark.dev/typescript-strict/Serpfull/serpfull-web.svg)](https://securemark.dev/report/typescript-strict/Serpfull/serpfull-web)
+
 <br>
 <br>
 🌍 [LOOMLOCALE](https://www.loomlocale.com): A translation platform built to help developers deliver multilingual digital experiences through [next-tongue](https://www.npmjs.com/package/next-tongue): An npm package for integrating multilingual experiences into Next.js applications.
