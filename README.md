@@ -5,7 +5,7 @@ Cyber security researcher and software engineer based in the UK.
 - 🎓 MSc Computer Science for Cyber Security, Oxford Brookes University, UK
 - 🎓 BSc Computer Science for Web Development, Falmouth University, UK
 - 🔬 Incoming PhD researcher
-- 🛡️ Founder and Principal Researcher of [ThreatBytes](https://github.com/THREATBYTES): Super Intelligence for novel malware research. [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.threatbytes.dev&label=website)](https://www.threatbytes.dev)
+- 🛡️ Founder and Principal Researcher of [ThreatBytes](https://github.com/THREATBYTES): Super Intelligence for novel malware research.
 <br>
 <img width="2048" height="512" alt="image5" src="https://github.com/user-attachments/assets/e0ce7aa0-b1c4-4c53-9493-134d11b3dcca" />
 <br>
@@ -28,6 +28,7 @@ Malware analysis · Agentic AI · Adversarial machine learning · Threat intelli
 
 <br>
 <br>
+
 🌍 [LOOMLOCALE](https://www.loomlocale.com): A translation platform built to help developers deliver multilingual digital experiences through [next-tongue](https://www.npmjs.com/package/next-tongue): An npm package for integrating multilingual experiences into Next.js applications.
 <br>
 <br>
@@ -38,6 +39,7 @@ Malware analysis · Agentic AI · Adversarial machine learning · Threat intelli
 
 <br>
 <br>
+
 🌍 [Securemark](https://www.securemark.dev): A unified platform that monitors, measures and verifies website security, performance and software quality, delivering real-time insights through customisable SVG badges for GitHub repositories.
 <br>
 <br>
@@ -47,14 +49,15 @@ Malware analysis · Agentic AI · Adversarial machine learning · Threat intelli
 <br>
 
 # Other Projects
-✨ [Hallume](https://www.hallume.com): Premium UI templates, WebGL heroes and shader effects. Crafted light for the modern web. [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.hallume.com&label=website)](https://www.hallume.com)
+✨ [Hallume](https://www.hallume.com): Premium UI templates, WebGL heroes and shader effects. Crafted light for the modern web.
 <br>
 <br>
 <img width="1024" height="256" alt="image4" src="https://github.com/user-attachments/assets/06952990-f48a-474f-9ac6-e445cd09b2d2" />
 <br>
 <br>
 <br>
-✨ [Noticed.](https://www.noticedsites.com): Get Noticed. The web's boldest sites, voted by you. [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.noticedsites.com&label=website)](https://www.noticedsites.com)
+
+✨ [Noticed.](https://www.noticedsites.com): Get Noticed. The web's boldest sites, voted by you.
 <br>
 <br>
 <img width="2048" height="512" alt="image6" src="https://github.com/user-attachments/assets/ae7be4cb-4e1e-43c8-9230-6e3dfc7aa918" />
