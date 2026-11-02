@@ -18,7 +18,7 @@ Malware analysis · Agentic AI · Adversarial machine learning · Threat intelli
 <br>
 
 # Currently Building
-✨ [Serpfull](https://www.serpfull.com): Enterprise-grade SERP, SEO & Analytics solutions designed to optimise search rankings. [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.serpfull.com&label=website)](https://www.serpfull.com)
+✨ [Serpfull](https://www.serpfull.com): Enterprise-grade SERP, SEO & Analytics solutions designed to optimise search rankings.
 <br>
 <br>
 <img width="2048" height="512" alt="image" src="https://github.com/user-attachments/assets/2eb906a1-c74f-4ec1-87ac-6a61fd8e31de" />
