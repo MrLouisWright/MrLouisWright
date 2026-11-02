@@ -9,7 +9,8 @@ Cyber security researcher and software engineer based in the UK.
 <br>
 <img width="2048" height="512" alt="image5" src="https://github.com/user-attachments/assets/e0ce7aa0-b1c4-4c53-9493-134d11b3dcca" />
 <br>
-[![build badge](https://securemark.dev/build/THREATBYTES/THREATBYTES.svg)](https://securemark.dev/report/build/THREATBYTES/THREATBYTES)
+[[![build badge](https://securemark.dev/build/THREATBYTES/THREATBYTES.svg)](https://securemark.dev/report/build/THREATBYTES/THREATBYTES)
+](https://securemark.dev/build/THREATBYTES/THREATBYTES.svg)
 
 ## Research interests
 Malware analysis · Agentic AI · Adversarial machine learning · Threat intelligence · OSINT
