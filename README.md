@@ -6,7 +6,7 @@ Cyber security researcher and software engineer based in the UK.
 - 🎓 BSc Computer Science for Web Development, Falmouth University, UK
 - 🔬 Incoming PhD researcher
 
-##🛡️ Founder and Principal Researcher of [ThreatBytes](https://github.com/THREATBYTES): Super Intelligence for novel malware research.
+## 🛡️ Founder and Principal Researcher of [ThreatBytes](https://github.com/THREATBYTES): Super Intelligence for novel malware research.
 <br>
 <img width="2048" height="512" alt="image5" src="https://github.com/user-attachments/assets/e0ce7aa0-b1c4-4c53-9493-134d11b3dcca" />
 <br>
@@ -19,7 +19,7 @@ Malware analysis · Agentic AI · Adversarial machine learning · Threat intelli
 <br>
 
 # Currently Building
-##✨ [Serpfull](https://www.serpfull.com): Enterprise-grade SERP, SEO & Analytics solutions designed to optimise search rankings.
+## ✨ [Serpfull](https://www.serpfull.com): Enterprise-grade SERP, SEO & Analytics solutions designed to optimise search rankings.
 <br>
 <br>
 <img width="2048" height="512" alt="image" src="https://github.com/user-attachments/assets/2eb906a1-c74f-4ec1-87ac-6a61fd8e31de" />
@@ -30,7 +30,7 @@ Malware analysis · Agentic AI · Adversarial machine learning · Threat intelli
 <br>
 <br>
 
-##🌍 [LOOMLOCALE](https://www.loomlocale.com): A translation platform built to help developers deliver multilingual digital experiences through [next-tongue](https://www.npmjs.com/package/next-tongue): An npm package for integrating multilingual experiences into Next.js applications.
+## 🌍 [LOOMLOCALE](https://www.loomlocale.com): A translation platform built to help developers deliver multilingual digital experiences through [next-tongue](https://www.npmjs.com/package/next-tongue): An npm package for integrating multilingual experiences into Next.js applications.
 <br>
 <br>
 <img width="1280" height="320" alt="68747470733a2f2f7777772e6c6f6f6d6c6f63616c652e636f6d2f6272616e642f706f77657265642d62792d6c6f6f6d6c6f63616c652d6461726b4032782e706e67" src="https://github.com/user-attachments/assets/756fa556-7c60-4eed-a167-5b78fa9c08e0" />
@@ -41,7 +41,7 @@ Malware analysis · Agentic AI · Adversarial machine learning · Threat intelli
 <br>
 <br>
 
-##🌍 [Securemark](https://www.securemark.dev): A unified platform that monitors, measures and verifies website security, performance and software quality, delivering real-time insights through customisable SVG badges for GitHub repositories.
+## 🌍 [Securemark](https://www.securemark.dev): A unified platform that monitors, measures and verifies website security, performance and software quality, delivering real-time insights through customisable SVG badges for GitHub repositories.
 <br>
 <br>
 <img width="2168" height="555" alt="Securemark Security Grade Banner" src="https://github.com/user-attachments/assets/03594a5a-819f-407a-99f8-24da628ee646" />
@@ -53,7 +53,7 @@ Malware analysis · Agentic AI · Adversarial machine learning · Threat intelli
 <br>
 
 # Other Projects
-##✨ [Hallume](https://www.hallume.com): Premium UI templates, WebGL heroes and shader effects. Crafted light for the modern web.
+## ✨ [Hallume](https://www.hallume.com): Premium UI templates, WebGL heroes and shader effects. Crafted light for the modern web.
 <br>
 <br>
 <img width="1024" height="256" alt="image4" src="https://github.com/user-attachments/assets/06952990-f48a-474f-9ac6-e445cd09b2d2" />
@@ -61,7 +61,7 @@ Malware analysis · Agentic AI · Adversarial machine learning · Threat intelli
 <br>
 <br>
 
-##✨ [Noticed.](https://www.noticedsites.com): Get Noticed. The web's boldest sites, voted by you.
+## ✨ [Noticed.](https://www.noticedsites.com): Get Noticed. The web's boldest sites, voted by you.
 <br>
 <br>
 <img width="2048" height="512" alt="image6" src="https://github.com/user-attachments/assets/ae7be4cb-4e1e-43c8-9230-6e3dfc7aa918" />
